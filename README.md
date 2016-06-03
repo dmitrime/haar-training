@@ -7,3 +7,6 @@ Scripts for training a Haar cascade classifier, as described [here](http://codin
 [Haar-like features](https://en.wikipedia.org/wiki/Haar-like_features) can be used to detect certain objects in the image, for examples, faces.
 The articles above describe how to do this.
 Be prepared to wait days for the training to finish!
+
+
+OpenCV and its source is required for preparation and training.
